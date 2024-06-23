@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="0.13.12" />
-    <PackageReference Include="NumFlat" Version="0.9.5" />
+    <PackageReference Include="NumFlat" Version="0.9.6" />
   </ItemGroup>
 
 </Project>
